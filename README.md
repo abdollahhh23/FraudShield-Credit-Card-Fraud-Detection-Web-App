@@ -1,6 +1,8 @@
 # 🛡️ FraudShield — Credit Card Fraud Detection Web App
 
 A clean, locally-hosted Flask web app that lets you simulate real-time credit card transaction screening using your trained Random Forest model.
+<img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/cd88a7c3-b1e8-4de0-88b0-7a16156b5f84" />
+<img width="1731" height="896" alt="image" src="https://github.com/user-attachments/assets/e84d131c-b622-4c60-949f-d4d5d7828712" />
 
 ---
 
