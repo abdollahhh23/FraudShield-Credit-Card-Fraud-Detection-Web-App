@@ -1,4 +1,4 @@
-# 🛡️ FraudShield — Credit Card Fraud Detection Web App
+#  Real Time Fraud Prevention — Credit Card Fraud Detection Web App
 
 A clean, locally-hosted Flask web app that lets you simulate real-time credit card transaction screening using your trained Random Forest model.
 <img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/cd88a7c3-b1e8-4de0-88b0-7a16156b5f84" />
@@ -6,7 +6,7 @@ A clean, locally-hosted Flask web app that lets you simulate real-time credit ca
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 fraud_app/
@@ -19,7 +19,7 @@ fraud_app/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Install dependencies
 
@@ -27,7 +27,7 @@ fraud_app/
 pip install -r requirements.txt
 ```
 
-> ⚠️ Your `model.pkl` was trained with scikit-learn 1.2.2 — use **exactly** that version to avoid compatibility issues.
+>  Your `model.pkl` was trained with scikit-learn 1.2.2 — use **exactly** that version to avoid compatibility issues.
 
 ### 2. Place your model
 
@@ -58,7 +58,7 @@ These combinations represent real behavioral patterns observed in the original K
 
 ---
 
-## 📊 Model Info
+##  Model Info
 
 - **Algorithm**: Random Forest Classifier (SMOTE-balanced)
 - **Dataset**: [Kaggle Credit Card Fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) — 284,315 transactions
